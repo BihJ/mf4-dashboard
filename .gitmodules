@@ -1,0 +1,3 @@
+[submodule "NETWORK-configuration"]
+	path = NETWORK-configuration
+	url = ssh://git@gitea.bremergy.de:2222/Electronics/NETWORK-configuration.git
